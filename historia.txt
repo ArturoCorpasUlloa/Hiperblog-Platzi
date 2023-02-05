@@ -1,4 +1,5 @@
 Nombre : Arturo Corpas Ulloa 36 años
 Curso Profesional de Git y GitHub
+Estudio en la IUDigital de Antioquia
 04-02-2023
 
